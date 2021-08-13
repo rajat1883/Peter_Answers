@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Peter Answers</title>
+    <script src="Scripts/angular.min.js"></script>
+    <link rel="stylesheet" href="Styles/bootstrap.min.css">
+    <script src="Scripts/jquery.min.js"></script>
+    <script src="Scripts/boostrap.min.js"></script>
+    <script src="Scripts/peter.js"></script>
+</head>
+<body ng-app="peterApp" ng-controller="peterController">
+    <div class="row">
+        <div class="col-md-1">
+            Petition :
+        </div>
+        <div class="col-md-11">
+            <input style="width:300px;" type="text" ng-keydown="changeText($event.key)" ng-model="petition" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-1">
+            Question :
+        </div>
+        <div class="col-md-11">
+            <input style="width:300px;" type="text" ng-keydown="fireAnswer($event.key)" ng-model="question" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <input type="submit" ng-click="showAnswer = true;" value="Submit Question" />
+        </div>
+        <div class="col-md-10"  ng-if="showAnswer">
+            <input type="button" ng-click="resetPeter()" value="Ask Again" />
+        </div>
+    </div>
+    <div style="margin-left:100px;" ng-if="showAnswer">
+        <h3>{{answer}}</h3>
+    </div>
+</body>
+</html>

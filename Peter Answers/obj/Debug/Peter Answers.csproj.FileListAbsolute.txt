@@ -1,0 +1,111 @@
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\Peter Answers.dll.config
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\Peter Answers.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\Peter Answers.pdb
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\csc.exe
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\csc.exe.config
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\csc.rsp
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\csi.exe
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\csi.exe.config
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\csi.rsp
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\System.AppContext.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\System.Console.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\System.Security.Claims.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\vbc.exe
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\vbc.exe.config
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\vbc.rsp
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\obj\Debug\Peter Answers.csprojAssemblyReference.cache
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\obj\Debug\Peter Answers.csproj.CoreCompileInputs.cache
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\obj\Debug\Peter Answers.csproj.CopyComplete
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\obj\Debug\Peter Answers.dll
+C:\Users\Rajat.arora\source\repos\Peter Answers\Peter Answers\obj\Debug\Peter Answers.pdb
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\Peter Answers.dll.config
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\Peter Answers.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\Peter Answers.pdb
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\csc.exe
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\csc.exe.config
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\csc.rsp
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\csi.exe
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\csi.exe.config
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\csi.rsp
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\System.AppContext.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\System.Collections.Immutable.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\System.Console.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\System.IO.Compression.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\System.IO.FileSystem.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\System.IO.Pipes.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\System.Reflection.Metadata.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\System.Security.AccessControl.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\System.Security.Claims.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\System.ValueTuple.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\System.Xml.XPath.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\vbc.exe
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\vbc.exe.config
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\vbc.rsp
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\VBCSCompiler.exe
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\roslyn\VBCSCompiler.exe.config
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Technical Stuff\Peter Answers\Peter Answers\obj\Debug\Peter Answers.csprojAssemblyReference.cache
+D:\Technical Stuff\Peter Answers\Peter Answers\obj\Debug\Peter Answers.csproj.CopyComplete
+D:\Technical Stuff\Peter Answers\Peter Answers\obj\Debug\Peter Answers.dll
+D:\Technical Stuff\Peter Answers\Peter Answers\obj\Debug\Peter Answers.pdb
