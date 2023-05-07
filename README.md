@@ -1,2 +1,2 @@
 # Peter_Answers
-This app is a very small app to fool people to answer their questions
+This app is like a magic which answers questions of people
